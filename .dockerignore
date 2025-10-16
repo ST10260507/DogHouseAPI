@@ -1,3 +1,6 @@
-# Exclude NuGet configuration files that might contain local paths
+# Exclude all NuGet configuration files
 NuGet.config
 .nuget/*
+
+# Exclude any hidden files that might contain user-level config
+.config/
