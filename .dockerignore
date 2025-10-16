@@ -1,0 +1,3 @@
+# Exclude NuGet configuration files that might contain local paths
+NuGet.config
+.nuget/*
