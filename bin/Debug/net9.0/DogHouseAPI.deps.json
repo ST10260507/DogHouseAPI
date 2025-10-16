@@ -8,11 +8,25 @@
     ".NETCoreApp,Version=v9.0": {
       "DogHouseAPI/1.0.0": {
         "dependencies": {
+          "FirebaseAdmin": "3.4.0",
           "Google.Cloud.Firestore": "3.11.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.8"
         },
         "runtime": {
           "DogHouseAPI.dll": {}
+        }
+      },
+      "FirebaseAdmin/3.4.0": {
+        "dependencies": {
+          "Google.Api.Gax.Rest": "4.8.0",
+          "Google.Apis.Auth": "1.69.0",
+          "System.Collections.Immutable": "8.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/FirebaseAdmin.dll": {
+            "assemblyVersion": "3.4.0.0",
+            "fileVersion": "3.4.0.0"
+          }
         }
       },
       "Google.Api.CommonProtos/2.17.0": {
@@ -53,6 +67,19 @@
           "lib/netstandard2.0/Google.Api.Gax.Grpc.dll": {
             "assemblyVersion": "4.11.0.0",
             "fileVersion": "4.11.0.0"
+          }
+        }
+      },
+      "Google.Api.Gax.Rest/4.8.0": {
+        "dependencies": {
+          "Google.Api.Gax": "4.11.0",
+          "Google.Apis.Auth": "1.69.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Api.Gax.Rest.dll": {
+            "assemblyVersion": "4.8.0.0",
+            "fileVersion": "4.8.0.0"
           }
         }
       },
@@ -272,6 +299,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "FirebaseAdmin/3.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sQyVEOYRe4HSSmRCJQhKr33DxZk10lpDE2otdTgNkqPn4BRul2JG7TCQC7N7X0wO9ShnPLbVS4xuSUHlaPBbug==",
+      "path": "firebaseadmin/3.4.0",
+      "hashPath": "firebaseadmin.3.4.0.nupkg.sha512"
+    },
     "Google.Api.CommonProtos/2.17.0": {
       "type": "package",
       "serviceable": true,
@@ -292,6 +326,13 @@
       "sha512": "sha512-22wm6lNa+R2CrwZnHZOs5A1gYD76dL08ENQKdYT4KfSFCwbEtO6InwbpwC8Vsh+SChKMIdFEgbQADG+jEcFoqQ==",
       "path": "google.api.gax.grpc/4.11.0",
       "hashPath": "google.api.gax.grpc.4.11.0.nupkg.sha512"
+    },
+    "Google.Api.Gax.Rest/4.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zaA5LZ2VvGj/wwIzRB68swr7khi2kWNgqWvsB0fYtScIAl3kGkGtqiBcx63H1YLeKr5xau1866bFjTeReH6FSQ==",
+      "path": "google.api.gax.rest/4.8.0",
+      "hashPath": "google.api.gax.rest.4.8.0.nupkg.sha512"
     },
     "Google.Apis/1.69.0": {
       "type": "package",

@@ -52,3 +52,8 @@ C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\obj\Debug\net9.0
 C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\obj\Debug\net9.0\DogHouseAPI.pdb
 C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\obj\Debug\net9.0\DogHouseAPI.genruntimeconfig.cache
 C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\obj\Debug\net9.0\ref\DogHouseAPI.dll
+C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\bin\Debug\net9.0\kzn-doghouse-firebase-adminsdk-fbsvc-382294de0d.json
+C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\bin\Debug\net9.0\package-lock.json
+C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\bin\Debug\net9.0\package.json
+C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\bin\Debug\net9.0\FirebaseAdmin.dll
+C:\Users\lab_services_student\Desktop\AndroidStudio\DogHouseAPI\bin\Debug\net9.0\Google.Api.Gax.Rest.dll
