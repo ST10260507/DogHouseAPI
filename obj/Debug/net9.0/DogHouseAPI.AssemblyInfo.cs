@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DogHouseAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eeeda32f8336010d35c4d1a2558648069b8c8f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5461ca75a6df207fb7db37d9e72a667f791382a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DogHouseAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DogHouseAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

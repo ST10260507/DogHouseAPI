@@ -1,0 +1,6 @@
+# Exclude the Firebase Service Account Key (CRITICAL)
+kzn-doghouse-firebase-adminsdk-fbsvc-382294de0d.json
+
+# You may also want to exclude common configuration files
+# Exclude general environment configuration files
+.env
